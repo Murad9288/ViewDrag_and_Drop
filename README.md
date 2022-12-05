@@ -9,4 +9,4 @@
 
 # ViewDrag_and_Drop Example Picture ->
 
-<p align = "center" ><img src=“./Image sample/1.png”/></p>
+<p align = "center" ><img src= './Image sample/1.png' width='200px'></p>
